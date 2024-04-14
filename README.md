@@ -7,19 +7,17 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SongAhyeon01&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue)
 
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-520.3%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-597.9%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
 
 **저는 아침형 인간이에요. 🐤** 
 
 ```text
-🌞 아침                     176 commits         █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
-🌆 낮　                     557 commits         ████████████████░░░░░░░░░   62.87 % 
-🌃 저녁                     92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
-🌙 밤　                     61 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+🌞 아침                     183 commits         █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
+🌆 낮　                     575 commits         ████████████████░░░░░░░░░   62.70 % 
+🌃 저녁                     95 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+🌙 밤　                     64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
 ```
 
 
@@ -39,5 +37,5 @@
 ```
 
 
- Last Updated on 13/04/2024 15:06:49 UTC
+ Last Updated on 14/04/2024 22:02:07 UTC
 <!--END_SECTION:waka-->

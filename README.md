@@ -2,9 +2,10 @@
 
 <h2>관심 분야</h2>
 
-<a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
-<a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
-
+<div>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+</div>
 
 <details>
 <summary>
